@@ -7,4 +7,9 @@ public class Demo {
                                              System.out.println("Hello");
 	}
 
+punlic void m1()
+{ 
+      // logic to fix bug 1234
+}
+
 }
